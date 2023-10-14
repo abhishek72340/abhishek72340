@@ -15,7 +15,7 @@
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **abhisingh.72340@gmail.com**
-- 👨‍💻 You can also check out my portfolio at https://abhishek-singh-rana.netlify.app/
+- 👨‍💻 You can also check out my portfolio at https://abhishek72.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 
