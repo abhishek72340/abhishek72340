@@ -3,7 +3,7 @@
 ## I'm a Student, Coder,and Developer!!
 <br/>
 - 👯 I’m looking to collaborate with developers<br/>
-- 🥅 2023 Goals: Contribute Open Source projects<br/>
+- 🥅 2024-25 Goals: Contribute Open Source projects<br/>
 - ⚡ Fun fact: I love to explore new technology
 
 
