@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, This is Abhishek Singh Rana</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
-## I'm a Student, Coder,and Developer!!
+## I'm a Coder/Developer!!
 <br/>
 - 👯 I’m looking to collaborate with developers<br/>
 - 🥅 2024-25 Goals: Contribute Open Source projects<br/>
