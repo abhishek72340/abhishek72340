@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://app.daily.dev/abhishek72340"><img src="https://api.daily.dev/devcards/510c69ba36fa4970a923534ed6847bdc.png?r=f9e" width="400" alt="Abhishek Singh Rana's Dev Card"/></a>
+
 
 <p align="left">
 <a href="https://twitter.com/abhishe66896161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishe66896161" height="30" width="40" /></a>
