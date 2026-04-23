@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek72340&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek72340" /> </p>
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Frontend Technologies**
 
 - 📫 How to reach me **abhisingh.72340@gmail.com**
 - 👨‍💻 You can also check out my portfolio at https://website-portfolio93.netlify.app
